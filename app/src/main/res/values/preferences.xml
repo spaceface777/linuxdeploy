@@ -178,7 +178,7 @@
     <!-- Slackware -->
     <string name="slackware_suite" translatable="false">14.2</string>
     <!-- arm -->
-    <string name="arm_slackware_source_path" translatable="false">http://mirrors.bfsu.edu.cn/slackwarearm//string>
+    <string name="arm_slackware_source_path" translatable="false">http://mirrors.bfsu.edu.cn/slackwarearm/</string>
     <string name="arm_slackware_arch" translatable="false">arm</string>
     <!-- arm_64 -->
     <string name="arm_64_slackware_source_path" translatable="false">http://mirrors.bfsu.edu.cn/slackwarearm/</string>
