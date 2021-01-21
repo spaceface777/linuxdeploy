@@ -1,4 +1,4 @@
-# Linux Deploy
+# Linux Deploy 
 
 Copyright (C) 2012-2019  Anton Skshidlevsky, [GPLv3](https://github.com/meefik/linuxdeploy/blob/master/LICENSE)
 
